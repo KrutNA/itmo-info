@@ -1,0 +1,41 @@
+#+LANGUAGE: en
+#+AUTHOR: АВТОР
+#+OPTIONS: toc:nil
+#+LATEX: \large
+#+LATEX: \thispagestyle{empty}
+#+BEGIN_CENTER
+*Санкт-Петербургский Национальный Исследовательский*\\
+*Университет Информационных Технологий, Механики и Оптики*\\
+*Факультет Программной Инженерии и Компьютерной Техники*\\
+#+END_CENTER
+#+LATEX: \vspace{1em}
+#+ATTR_LATEX: :width 120px
+#+ATTR_ORG: :width 120px
+file:../itmo-logo.png
+#+LATEX: \LARGE
+#+LATEX: \vspace{5em}
+#+BEGIN_CENTER
+*Вариант № НОМЕР*\\
+*Лабораторная работа № НОМЕР*\\
+#+LATEX: \Large
+*по дисциплине*\\
+#+LATEX: \LARGE
+*/'НАЗВАНИЕ ДИСЦИПЛИНЫ'/*\\
+#+END_CENTER
+#+LATEX: \vspace{11em}
+#+LATEX: \large
+#+LATEX: \begin{flushright}
+*Выполнил:*\\
+*Студент группы ГРУППА*\\
+*/АВТОР;/ : НОМЕР*\\
+*Преподаватель:*\\
+*/ПРЕПОДАВАТЕЛЬ/*\\
+#+LATEX: \end{flushright}
+#+LATEX: \vspace{4em}
+#+LATEX: \large
+#+BEGIN_CENTER
+*Санкт-Петербург 2019 г.*
+#+END_CENTER
+#+LATEX: \pagebreak{}
+#+TOC: headlines 2
+#+LATEX: \vspace{2em}

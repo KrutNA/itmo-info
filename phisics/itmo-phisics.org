@@ -1,0 +1,34 @@
+#+LANGUAGE: en
+#+AUTHOR: АВТОР
+#+OPTIONS: toc:nil
+#+LATEX: \scriptsize
+#+LATEX: \thispagestyle{empty}
+#+LATEX_HEADER: \usepackage{makecell}
+#+BEGIN_CENTER
+\begin{tabular}{ c c c }
+\raisebox{7ex}{
+\makecell{
+\scriptsize
+\textbf{Санкт-Петербургский Национальный Исследовательский Университет} \\
+ 	  \textbf{Информационных Технологий, Механики и Оптики}\\
+\small
+\\ \textbf{КАФЕДРА ФИЗИКИ}}} &
+\raisebox{3ex}{
+\includegraphics[height=10ex]{../itmo-logo.png}
+} & \raisebox{7ex}{\makecell{\textbf{УНИВЕРСИТЕТ} \\ \textbf{ИТМО}}} \\[-2ex]
+\end{tabular}
+\noindent\rule{\textwidth}{1.5pt}\\
+\Large
+\begin{tabular}{ p{7.8cm} p{7.8cm} }
+\\
+Группа\hrulefill & К работе допущен\hrulefill\\[+0.3cm]
+Студент\hrulefill & Работа выполнена\hrulefill\\[+0.3cm]
+Преподаватель\hrulefill & Отчет принят\hrulefill\\[+1cm]
+\end{tabular}
+\Huge
+\textbf{Рабочий протокол и отчет по} \\
+\textbf{лабораторной работе №}\\
+\hrulefill\\
+\hrulefill
+#+END_CENTER
+#+LATEX: \pagebreak{}
