@@ -3,16 +3,32 @@
 ### ОПД
 [se.ifmo.ru / **labs**](https://se.ifmo.ru/courses/csbasics)
 
-Очередь: [Google.Forms](https://forms.gle/SKfjxeUmfTYufU7T8) [Google.Sheets](https://docs.google.com/spreadsheets/d/105KoJydDBbiGeY7NfV06BM9oOAbNDfbekTVVR88vHmU/edit#gid=239610275)
+Очередь:
+[Google.Forms](https://forms.gle/SKfjxeUmfTYufU7T8)
+[Google.Sheets](https://docs.google.com/spreadsheets/d/105KoJydDBbiGeY7NfV06BM9oOAbNDfbekTVVR88vHmU/edit#gid=239610275)
 
-Таблица с баллами: [Google.Sheets](https://docs.google.com/spreadsheets/d/1IoYmjRQTEO3y4-HRJRub4JE6F_qRFgCHCFAPOa16YRM/edit#gid=237521947)
+Таблица с баллами:
+[Google.Sheets](https://docs.google.com/spreadsheets/d/1IoYmjRQTEO3y4-HRJRub4JE6F_qRFgCHCFAPOa16YRM/edit#gid=237521947)
 
 ### ПРОГА
 [se.ifmo.ru / **labs**](https://se.ifmo.ru/courses/programming)
 
-Очередь: [Google.Forms](https://forms.gle/ZAa6ShrxzsF7UUuB8) [Google.Sheets](https://docs.google.com/spreadsheets/d/105KoJydDBbiGeY7NfV06BM9oOAbNDfbekTVVR88vHmU/edit#gid=687538869)
+Очередь:
+[Google.Forms](https://forms.gle/ZAa6ShrxzsF7UUuB8)
+[Google.Sheets](https://docs.google.com/spreadsheets/d/105KoJydDBbiGeY7NfV06BM9oOAbNDfbekTVVR88vHmU/edit#gid=687538869)
 
-Таблица с баллами: [Google.Sheets](https://docs.google.com/spreadsheets/d/1if0PncoLo2zVylvppUU4aDJC8cTeZEIymJ5ZxW9Pe10/edit?ts=5d78b0eb#gid=560546764)
+Таблица с баллами:
+[Google.Sheets](https://docs.google.com/spreadsheets/d/1if0PncoLo2zVylvppUU4aDJC8cTeZEIymJ5ZxW9Pe10/edit?ts=5d78b0eb#gid=560546764)
+
+### ИНФА
+[**группа**](https://vk.com/club31201840)
+[**labs**](https://books.ifmo.ru/file/pdf/2464.pdf) 
+
+Вариант: Номер группы (13) + Порядковый номер в группе
+
+Очередь: ~~Нинужно~~
+
+Табоица с баллами: ~~Отсутствует~~
 
 ## Гайд
 ### Описание базовой логики очереди
