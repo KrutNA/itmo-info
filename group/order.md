@@ -26,7 +26,9 @@
 
 Вариант: Номер группы (13) + Порядковый номер в группе
 
-Очередь: [Google.Forms](https://forms.gle/47oi3oeNo7MzeocJ7)
+Очередь:
+[Google.Forms](https://forms.gle/47oi3oeNo7MzeocJ7)
+[Google.Sheets](https://docs.google.com/spreadsheets/d/105KoJydDBbiGeY7NfV06BM9oOAbNDfbekTVVR88vHmU/edit#gid=1303886591)
 
 Таблица с баллами:
 [Google.Sheets](https://docs.google.com/spreadsheets/d/1a3L_CS_7c2I4e0JX7uvUYSNVqhAHGhgyWenguCQ6TP0/edit#gid=0)
