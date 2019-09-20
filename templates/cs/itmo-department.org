@@ -1,4 +1,4 @@
-#+LANGUAGE: en
+#+LANGUAGE: ru
 #+AUTHOR: АВТОР
 #+OPTIONS: toc:nil
 #+LATEX: \large
