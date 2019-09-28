@@ -24,7 +24,7 @@
 [**группа**](https://vk.com/club31201840)
 [**labs**](https://books.ifmo.ru/file/pdf/2464.pdf) 
 
-Вариант: Номер группы (13) + Порядковый номер в группе
+Вариант: Номер группы (3) + Порядковый номер в группе
 
 Очередь:
 [Google.Forms](https://forms.gle/47oi3oeNo7MzeocJ7)
