@@ -33,6 +33,11 @@
 Таблица с баллами:
 [Google.Sheets](https://docs.google.com/spreadsheets/d/1a3L_CS_7c2I4e0JX7uvUYSNVqhAHGhgyWenguCQ6TP0/edit#gid=0)
 
+### ПСЖ
+Если пишете ПСЖ, то отметьтесь тут, чтобы всегда были в наших сердечках <3
+[Google.Forms](https://forms.gle/obrU9HRqzapXNsd46)
+[Google.Sheets](https://docs.google.com/spreadsheets/d/105KoJydDBbiGeY7NfV06BM9oOAbNDfbekTVVR88vHmU/edit#gid=1685365289)
+
 ## Гайд
 ### Описание базовой логики очереди
 Данный документ является лишь начальной и базовой логикой, может не включать некоторых элементов и не является конечным форматом очереди, по мере тестирования возможны внесения правок. 
