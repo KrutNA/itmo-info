@@ -22,7 +22,9 @@
 
 ### ИНФА
 [**группа**](https://vk.com/club31201840)
-[**labs**](https://books.ifmo.ru/file/pdf/2464.pdf) 
+[**labs**](https://books.ifmo.ru/file/pdf/2464.pdf)
+
+Почта для отправки: [tamalysheva@itmo.ru](mailto:tamalysheva@itmo.ru)
 
 Вариант: Номер группы (3) + Порядковый номер в группе
 
