@@ -1,3 +1,4 @@
+#+SETUPFILE: /home/krutna/.emacs.d/org-mode/orgs/setup/setup.org
 #+LANGUAGE: ru
 #+AUTHOR: АВТОР
 #+OPTIONS: toc:nil
@@ -8,10 +9,8 @@
 \begin{tabular}{ c c c }
 \raisebox{7ex}{
 \makecell{
-\scriptsize
-\textbf{Санкт-Петербургский Национальный Исследовательский Университет} \\
- 	  \textbf{Информационных Технологий, Механики и Оптики}\\
 \small
+\textbf{Национальный Исследовательский Университет ИТМО}\\
 \\ \textbf{КАФЕДРА ФИЗИКИ}}} &
 \raisebox{3ex}{
 \includegraphics[height=10ex]{../itmo-logo.png}
