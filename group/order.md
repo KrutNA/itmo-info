@@ -1,4 +1,4 @@
-# Очередь 13.09.2019 P3113
+# Очередь 06.02.2020 P3113
 ## Программы
 ### ОПД
 [se.ifmo.ru / **labs**](https://se.ifmo.ru/courses/csbasics)
@@ -7,9 +7,9 @@
 [Google.Forms](https://forms.gle/SKfjxeUmfTYufU7T8)
 [Google.Sheets](https://docs.google.com/spreadsheets/d/105KoJydDBbiGeY7NfV06BM9oOAbNDfbekTVVR88vHmU/edit#gid=687538869)
 
-Рантайм очередь:
-[Google.Forms](https://forms.gle/RHGnfrea3i895k8JA)
-	[Google.Sheets](https://docs.google.com/spreadsheets/d/105KoJydDBbiGeY7NfV06BM9oOAbNDfbekTVVR88vHmU/edit#gid=1196855409)
+<!-- Рантайм очередь: -->
+<!-- [Google.Forms](https://forms.gle/RHGnfrea3i895k8JA) -->
+	<!-- [Google.Sheets](https://docs.google.com/spreadsheets/d/105KoJydDBbiGeY7NfV06BM9oOAbNDfbekTVVR88vHmU/edit#gid=1196855409) -->
 
 Таблица с баллами:
 [Google.Sheets](https://docs.google.com/spreadsheets/d/1IoYmjRQTEO3y4-HRJRub4JE6F_qRFgCHCFAPOa16YRM/edit#gid=237521947)
@@ -21,31 +21,13 @@
 [Google.Forms](https://forms.gle/ZAa6ShrxzsF7UUuB8)
 [Google.Sheets](https://docs.google.com/spreadsheets/d/105KoJydDBbiGeY7NfV06BM9oOAbNDfbekTVVR88vHmU/edit#gid=239610275)
 
-Рантайм очередь:
-[Google.Forms](https://forms.gle/oWQEJ7Zjp7GbY5rs6)
-	[Google.Sheets](https://docs.google.com/spreadsheets/d/105KoJydDBbiGeY7NfV06BM9oOAbNDfbekTVVR88vHmU/edit#gid=275120301)
+<!-- Рантайм очередь: -->
+<!-- [Google.Forms](https://forms.gle/oWQEJ7Zjp7GbY5rs6) -->
+	<!-- [Google.Sheets](https://docs.google.com/spreadsheets/d/105KoJydDBbiGeY7NfV06BM9oOAbNDfbekTVVR88vHmU/edit#gid=275120301) -->
 
 Таблица с баллами:
-[Google.Sheets](https://docs.google.com/spreadsheets/d/1if0PncoLo2zVylvppUU4aDJC8cTeZEIymJ5ZxW9Pe10/edit?ts=5d78b0eb#gid=560546764)
+[Google.Sheets](https://docs.google.com/spreadsheets/d/1mKBuYxcuHVE2R1ZudkjkWBBd8l4liftFLo1GhpxH46Q/edit#gid=560546764)
 
-### ИНФА
-[**группа**](https://vk.com/club31201840)
-[**labs**](https://books.ifmo.ru/file/pdf/2464.pdf)
-
-Почта для отправки: [tamalysheva@itmo.ru](mailto:tamalysheva@itmo.ru)
-
-Вариант: смотреть в тз
-
-Очередь:
-[Google.Forms](https://forms.gle/47oi3oeNo7MzeocJ7)
-[Google.Sheets](https://docs.google.com/spreadsheets/d/105KoJydDBbiGeY7NfV06BM9oOAbNDfbekTVVR88vHmU/edit#gid=1303886591)
-
-Рантайм очередь:
-[Google.Forms](https://forms.gle/TRmDRMFYKnp7J32r9)
-[Google.Sheets](https://docs.google.com/spreadsheets/d/105KoJydDBbiGeY7NfV06BM9oOAbNDfbekTVVR88vHmU/edit#gid=2083529071)
-
-Таблица с баллами:
-[Google.Sheets](https://docs.google.com/spreadsheets/d/1a3L_CS_7c2I4e0JX7uvUYSNVqhAHGhgyWenguCQ6TP0/edit#gid=0)
 
 ### ПСЖ
 Если пишете ПСЖ, то отметьтесь тут, чтобы всегда были в наших сердечках <3
