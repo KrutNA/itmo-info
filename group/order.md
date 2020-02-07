@@ -27,7 +27,7 @@
 
 Таблица с баллами:
 [Google.Sheets](https://docs.google.com/spreadsheets/d/1mKBuYxcuHVE2R1ZudkjkWBBd8l4liftFLo1GhpxH46Q/edit#gid=560546764)
-
+[Google.Sheets.OLD](https://docs.google.com/spreadsheets/d/1mKBuYxcuHVE2R1ZudkjkWBBd8l4liftFLo1GhpxH46Q/edit#gid=560546764)
 
 ### ПСЖ
 Если пишете ПСЖ, то отметьтесь тут, чтобы всегда были в наших сердечках <3
