@@ -12,7 +12,8 @@
 <!-- [Google.Sheets](https://docs.google.com/spreadsheets/d/105KoJydDBbiGeY7NfV06BM9oOAbNDfbekTVVR88vHmU/edit#gid=1196855409) -->
 
 Таблица с баллами:
-[Google.Sheets](https://docs.google.com/spreadsheets/d/1IoYmjRQTEO3y4-HRJRub4JE6F_qRFgCHCFAPOa16YRM/edit#gid=237521947)
+[Google.Sheets](https://docs.google.com/spreadsheets/d/1xoedeqELao6kHVHyWQpXbpStk1tozYzY2svr24Bg3kg/edit#gid=1993424105)
+[Google.Sheets.OLD.1.1](https://docs.google.com/spreadsheets/d/1IoYmjRQTEO3y4-HRJRub4JE6F_qRFgCHCFAPOa16YRM/edit#gid=237521947)
 
 ### ПРОГА
 [se.ifmo.ru / **labs**](https://se.ifmo.ru/courses/programming)
@@ -27,7 +28,7 @@
 
 Таблица с баллами:
 [Google.Sheets](https://docs.google.com/spreadsheets/d/1mKBuYxcuHVE2R1ZudkjkWBBd8l4liftFLo1GhpxH46Q/edit#gid=560546764)
-[Google.Sheets.OLD](https://docs.google.com/spreadsheets/d/1if0PncoLo2zVylvppUU4aDJC8cTeZEIymJ5ZxW9Pe10/edit?ts=5d78b0eb#gid=560546764)
+[Google.Sheets.OLD.1.1](https://docs.google.com/spreadsheets/d/1if0PncoLo2zVylvppUU4aDJC8cTeZEIymJ5ZxW9Pe10/edit?ts=5d78b0eb#gid=560546764)
 
 ### ПСЖ
 Если пишете ПСЖ, то отметьтесь тут, чтобы всегда были в наших сердечках <3
